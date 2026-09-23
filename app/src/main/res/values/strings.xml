@@ -19,4 +19,14 @@
     <string name="btn_login">Login</string>
     <string name="lost_items_title">Recent Lost Items</string>
     <string name="pagination_text">1 of 5</string>
+
+    <string name="filter_title">Filter</string>
+    <string name="filter_type">Type</string>
+    <string name="filter_brand">Brand</string>
+    <string name="filter_date">Date</string>
+    <string name="filter_time">Time</string>
+    <string name="filter_dash">---</string>
+    <string name="filter_date_range">--/-- to --/--</string>
+    <string name="filter_time_range">--:-- to --:--</string>
+    <string name="btn_search">Search</string>
 </resources>
