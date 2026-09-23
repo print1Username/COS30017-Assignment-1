@@ -1,0 +1,91 @@
+# --- Android Studio / IntelliJ IDEA ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Visual Studio Code ---
+.vscode/
+.history/
+*.code-workspace
+
+# --- Eclipse ---
+.settings/
+.project
+.classpath
+.factorypath
+bin/
+gen/
+
+# --- NetBeans ---
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# --- Gradle / Kotlin ---
+.gradle/
+build/
+.kotlin/
+gradle-app.setting
+.gradletasknamecache
+
+# --- Android / Native build outputs ---
+captures/
+.externalNativeBuild/
+.cxx/
+obj/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+*.hprof
+
+# --- Signing / secrets ---
+local.properties
+keystore.properties
+secrets.properties
+*.jks
+*.keystore
+
+# --- Firebase ---
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+
+# --- Logs / temp / crash dumps ---
+*.log
+*.pid
+*.tmp
+*.temp
+*.swp
+*~
+*.bak
+*.orig
+*.rej
+hs_err_pid*.log
+replay_pid*.log
+
+# --- OS generated files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100/
+.Trashes/
+.fseventsd/
+.TemporaryItems/
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# --- Linux ---
+.directory
+.Trash-*
