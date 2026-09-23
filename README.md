@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed on your computer:
 You can download the source code using Git. Open your terminal or command prompt and run the following command:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/print1Username/COS30017-Assignment-1.git
 ```
 
 Alternatively, if you do not have Git installed, you can download the project as a ZIP file from the repository page and extract it to a folder on your computer.
