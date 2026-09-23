@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LostAndFound</string>
+    <string name="search_hint">White Tupperware Bottle</string>
+    <string name="recent_lost_item">Recent lost Item:</string>
+    <string name="request_lost_item">Request lost Item:</string>
+    <string name="item_name">Item Name</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="place_date_time">Place, Date, Time</string>
+    <string name="more_items">More Items</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_lost">Lost</string>
+    <string name="nav_request">Request</string>
+    <string name="nav_profile">Profile</string>
+    <string name="login_title">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="already_have_account">Already have account? </string>
+    <string name="sign_up">Sign Up</string>
+    <string name="btn_login">Login</string>
+</resources>
