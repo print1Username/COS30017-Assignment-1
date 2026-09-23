@@ -39,4 +39,8 @@
     <string name="details_ellipsis">...</string>
     <string name="btn_its_mine">It\'s mine</string>
     <string name="gallery_more">+3</string>
+
+    <string name="profile_name">Name</string>
+    <string name="profile_bio">(bio)</string>
+    <string name="btn_logout">Log out</string>
 </resources>
