@@ -17,4 +17,6 @@
     <string name="already_have_account">Already have account? </string>
     <string name="sign_up">Sign Up</string>
     <string name="btn_login">Login</string>
+    <string name="lost_items_title">Recent Lost Items</string>
+    <string name="pagination_text">1 of 5</string>
 </resources>
